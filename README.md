@@ -16,6 +16,6 @@ I build secure, production-ready software with AI-led development workflows. I a
 Most of my active source repositories are private because they contain client, internal, or culturally sensitive project context. My portfolio presents selected case studies, live products, technical decisions, current limitations, and delivery practices.
 
 - [Portfolio](https://lewispak.dev)
-- [LinkedIn](https://www.linkedin.com/in/lewispak22/)
+- [LinkedIn](https://www.linkedin.com/in/explorergardener907/)
 
 I use a pseudonym on GitHub by choice. Professional background and contact details are available through the links above.
